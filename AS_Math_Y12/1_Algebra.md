@@ -5,6 +5,7 @@
 - Solve quadratic, linear and simultaneous equations both algebraically and graphically.
 - Manipulate inequalities and modulus expressions in solving range problems.
 - Translate word problems into algebraic equations and interpret discriminant conditions.
+- Use interactive simulations to reinforce understanding of concepts.
 
 ## Key Terminology
 - **Discriminant**: Expression $b^2-4ac$ in the quadratic formula determining nature of roots.
@@ -12,6 +13,7 @@
 - **Modulus**: Absolute value of a quantity, written $|x|$.
 - **Completing the square**: Technique to rewrite $ax^2+bx+c$ as $a(x-h)^2+k$.
 - **Simultaneous equations**: Two or more equations solved for the same variables.
+- **Benchmark**: Standard or point of reference for comparison.
 
 ## Core Explanations
 - Factorising quadratics using common factors, difference of squares, and the product-sum method.
@@ -19,6 +21,7 @@
 - Substitution and elimination methods for solving simultaneous linear and quadratic equations.
 - Inequalities on a number line, representing solution sets with interval notation and graphing modulus inequalities.
 - Application of the discriminant to determine whether quadratic graphs intersect the x-axis at two points, one point, or not at all.
+- Apply principles in realistic contexts such as laboratory experiments.
 
 ## Worked Examples
 1. *Nature of roots*: For $x^2-6x+10=0$, determine whether real roots exist.
@@ -28,19 +31,24 @@
 3. *Modulus inequality*: Solve $|3x-2|\ge5$.
    - Case 1: $3x-2\ge5 \Rightarrow x\ge\tfrac{7}{3}$. Case 2: $3x-2\le-5 \Rightarrow x\le-1$. Solution is $x\le-1$ or $x\ge7/3$.
 
+4. *Practice problem*: Use this problem to check your understanding of the theory.
+   - Solution steps should include reasoning and final answer with units.
 ## Interactive Resources
 - [Desmos Quadratic Explorer](https://www.desmos.com/calculator/qqdjy1zewp)
 - [GeoGebra Inequality Grapher](https://www.geogebra.org/m/kfdhrayb)
+<iframe src="https://www.desmos.com/calculator/qqdjy1zewp?embed" width="700" height="450" title="Interactive simulation" loading="lazy"></iframe>
 
 ## Exam Tips
 - Look for a common factor before applying other factorisation methods.
 - Clearly indicate inequality direction when multiplying or dividing by a negative quantity.
 - When solving simultaneously, check points of intersection graphically to avoid algebraic mistakes.
+- Review past papers to identify common question patterns.
 
 ## Common Pitfalls
 - Forgetting to square root both positive and negative values when taking the square root of $x^2$.
 - Dropping solutions when solving modulus equations by squaring both sides without checking validity.
 - Confusing the axis of symmetry $x=-b/2a$ with the location of the vertex when $a\ne1$.
+- Overlooking units when substituting values into formulas.
 
 ## Worksheet Placeholder
 **[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
