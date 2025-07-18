@@ -1,32 +1,47 @@
-# Mass And Weight
+# Mass and weight
 
-## Learning Objectives
-- Explain the fundamental ideas behind Mass And Weight as set out in the CIE syllabus.
-- Solve problems using standard formulae for Mass And Weight.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Mass**: Quantity of matter in an object, measured in kilograms.
-- **Weight**: Force due to gravity acting on a mass.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Mass and weight
+-->
 
-## Core Explanations
-This section explains the essential principles of Mass And Weight with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Differentiate between mass and weight.
+- Calculate weight using W = mg.
+- Describe how weight varies with gravitational field strength.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Mass And Weight.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Mass**
+- **Weight**
+- **Gravity**
 
-## Interactive Resources
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
+
+## 🧮 Worked Example 1
+**Q:** Find the weight of a 4 kg mass on Earth.
+
+**A:** W = 4 × 9.8 = 39.2 N
+
+## 🧮 Worked Example 2
+**Q:** Determine the mass of an object that weighs 30 N on Earth.
+
+**A:** m = 30/9.8 ≈ 3.1 kg
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
-
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
-
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+📎 See also: [06_Forces_Types_Resultants_Friction.md](06_Forces_Types_Resultants_Friction.md)

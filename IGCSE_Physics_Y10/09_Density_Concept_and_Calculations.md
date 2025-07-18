@@ -1,31 +1,47 @@
-# Density Concept And Calculations
+# Density concept and calculations
 
-## Learning Objectives
-- Explain the fundamental ideas behind Density Concept And Calculations as set out in the CIE syllabus.
-- Solve problems using standard formulae for Density Concept And Calculations.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Density**: Mass per unit volume.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Density concept and calculations
+-->
 
-## Core Explanations
-This section explains the essential principles of Density Concept And Calculations with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Measure mass and volume to find density.
+- Use the formula density = mass/volume.
+- Explain why some objects float while others sink.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Density Concept And Calculations.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Density**
+- **Mass**
+- **Volume**
 
-## Interactive Resources
-- [PhET Simulation](https://phet.colorado.edu/)
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
+## 🧮 Worked Example 1
+**Q:** A block of mass 0.5 kg occupies 2 ×10^-4 m³. Calculate its density.
 
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
+**A:** ρ = 2500 kg/m³
 
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+## 🧮 Worked Example 2
+**Q:** Find the mass of 1.2 L of oil of density 900 kg/m³.
+
+**A:** m = 1.08 kg
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
+- [PhET Simulation](https://phet.colorado.edu/en/simulation/density)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
+
+📎 See also: [17_Pressure_and_Ideal_Gas_Law.md](17_Pressure_and_Ideal_Gas_Law.md)

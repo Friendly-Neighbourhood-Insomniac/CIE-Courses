@@ -1,33 +1,47 @@
-# Work Energy Power
+# Work energy power
 
-## Learning Objectives
-- Explain the fundamental ideas behind Work Energy Power as set out in the CIE syllabus.
-- Solve problems using standard formulae for Work Energy Power.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Work**: Energy transferred when a force moves its point of application.
-- **Energy**: Capacity for doing work, measured in joules.
-- **Power**: Rate at which work is done or energy is transferred.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Work energy power
+-->
 
-## Core Explanations
-This section explains the essential principles of Work Energy Power with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Calculate work done by a force.
+- Relate work to energy transfer.
+- Determine power from energy and time.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Work Energy Power.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Work**
+- **Energy**
+- **Power**
 
-## Interactive Resources
-- [PhET Simulation](https://phet.colorado.edu/)
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
+## 🧮 Worked Example 1
+**Q:** A 100 N force moves a box 5 m. Calculate the work done.
 
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
+**A:** W = 500 J
 
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+## 🧮 Worked Example 2
+**Q:** A 60 W bulb is on for 2 minutes. How much energy is used?
+
+**A:** E = 7200 J
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
+- [PhET Simulation](https://phet.colorado.edu/en/simulation/energy-skate-park)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
+
+📎 See also: [11_Kinetic_and_Potential_Energy.md](11_Kinetic_and_Potential_Energy.md)

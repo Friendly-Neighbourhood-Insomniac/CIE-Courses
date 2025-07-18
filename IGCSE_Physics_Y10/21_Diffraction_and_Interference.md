@@ -1,31 +1,47 @@
-# Diffraction And Interference
+# Diffraction and interference
 
-## Learning Objectives
-- Explain the fundamental ideas behind Diffraction And Interference as set out in the CIE syllabus.
-- Solve problems using standard formulae for Diffraction And Interference.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Concept**: Key idea related to the topic.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Diffraction and interference
+-->
 
-## Core Explanations
-This section explains the essential principles of Diffraction And Interference with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Describe diffraction around openings.
+- Explain constructive and destructive interference.
+- Relate interference patterns to path difference.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Diffraction And Interference.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Diffraction**
+- **Interference**
+- **Fringe**
 
-## Interactive Resources
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
+
+## 🧮 Worked Example 1
+**Q:** Two slits separated by 0.1 mm are lit with 500 nm light on a 1 m screen. What is the fringe spacing?
+
+**A:** 5 mm
+
+## 🧮 Worked Example 2
+**Q:** When does destructive interference occur?
+
+**A:** When path difference equals half a wavelength.
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
-
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
-
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+📎 See also: [20_Reflection_and_Refraction.md](20_Reflection_and_Refraction.md)

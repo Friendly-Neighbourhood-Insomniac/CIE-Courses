@@ -1,33 +1,47 @@
-# General Wave Properties Frequency Wavelength Speed
+# General wave properties frequency wavelength speed
 
-## Learning Objectives
-- Explain the fundamental ideas behind General Wave Properties Frequency Wavelength Speed as set out in the CIE syllabus.
-- Solve problems using standard formulae for General Wave Properties Frequency Wavelength Speed.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Wave**: Disturbance transferring energy through space or a medium.
-- **Frequency**: Number of oscillations per second of a wave.
-- **Wavelength**: Distance between two consecutive identical points on a wave.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: General wave properties frequency wavelength speed
+-->
 
-## Core Explanations
-This section explains the essential principles of General Wave Properties Frequency Wavelength Speed with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Define amplitude, frequency, period and wavelength.
+- Use v = fλ to calculate wave speed.
+- Distinguish between transverse and longitudinal waves.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on General Wave Properties Frequency Wavelength Speed.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Wavelength**
+- **Frequency**
+- **Amplitude**
 
-## Interactive Resources
-- [PhET Simulation](https://phet.colorado.edu/)
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
+## 🧮 Worked Example 1
+**Q:** A wave has frequency 50 Hz and wavelength 0.2 m. What is its speed?
 
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
+**A:** v = 10 m/s
 
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+## 🧮 Worked Example 2
+**Q:** If the period of a wave is 0.01 s, find its frequency.
+
+**A:** f = 100 Hz
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
+- [PhET Simulation](https://phet.colorado.edu/en/simulation/wave-on-a-string)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
+
+📎 See also: [20_Reflection_and_Refraction.md](20_Reflection_and_Refraction.md)

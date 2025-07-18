@@ -1,31 +1,47 @@
-# Physical Quantities And Si Units
+# Physical quantities and si units
 
-## Learning Objectives
-- Explain the fundamental ideas behind Physical Quantities And Si Units as set out in the CIE syllabus.
-- Solve problems using standard formulae for Physical Quantities And Si Units.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Concept**: Key idea related to the topic.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Physical quantities and si units
+-->
 
-## Core Explanations
-This section explains the essential principles of Physical Quantities And Si Units with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Distinguish base from derived SI units.
+- Convert values using prefixes such as kilo and milli.
+- Record measurements to an appropriate precision.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Physical Quantities And Si Units.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Quantity**
+- **Base unit**
+- **Prefix**
 
-## Interactive Resources
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
+
+## 🧮 Worked Example 1
+**Q:** Convert 2.5 km to metres.
+
+**A:** 2.5 km = 2500 m
+
+## 🧮 Worked Example 2
+**Q:** Express 0.0037 m in millimetres.
+
+**A:** 0.0037 m = 3.7 mm
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
-
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
-
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+📎 See also: [02_Measurement_Techniques_and_Uncertainties.md](02_Measurement_Techniques_and_Uncertainties.md)

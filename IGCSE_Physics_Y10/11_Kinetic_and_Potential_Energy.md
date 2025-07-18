@@ -1,31 +1,47 @@
-# Kinetic And Potential Energy
+# Kinetic and potential energy
 
-## Learning Objectives
-- Explain the fundamental ideas behind Kinetic And Potential Energy as set out in the CIE syllabus.
-- Solve problems using standard formulae for Kinetic And Potential Energy.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Energy**: Capacity for doing work, measured in joules.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Kinetic and potential energy
+-->
 
-## Core Explanations
-This section explains the essential principles of Kinetic And Potential Energy with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Use KE = 1/2 m v^2 and GPE = mgh.
+- Convert between kinetic and potential energy.
+- Apply conservation of energy to simple systems.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Kinetic And Potential Energy.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Kinetic energy**
+- **Potential energy**
+- **Conservation**
 
-## Interactive Resources
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
+
+## 🧮 Worked Example 1
+**Q:** Find the kinetic energy of a 0.5 kg ball moving at 8 m/s.
+
+**A:** KE = 16 J
+
+## 🧮 Worked Example 2
+**Q:** What is the gravitational potential energy of a 2 kg mass 3 m high?
+
+**A:** GPE ≈ 59 J
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
-
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
-
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+📎 See also: [10_Work_Energy_Power.md](10_Work_Energy_Power.md)

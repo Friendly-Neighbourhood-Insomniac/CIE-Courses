@@ -1,31 +1,47 @@
-# Total Internal Reflection And Critical Angle
+# Total internal reflection and critical angle
 
-## Learning Objectives
-- Explain the fundamental ideas behind Total Internal Reflection And Critical Angle as set out in the CIE syllabus.
-- Solve problems using standard formulae for Total Internal Reflection And Critical Angle.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Concept**: Key idea related to the topic.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Total internal reflection and critical angle
+-->
 
-## Core Explanations
-This section explains the essential principles of Total Internal Reflection And Critical Angle with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Define critical angle and total internal reflection.
+- Calculate critical angle from refractive index.
+- Describe applications in optical fibres.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Total Internal Reflection And Critical Angle.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Critical angle**
+- **Total internal reflection**
+- **Optical fibre**
 
-## Interactive Resources
-- [PhET Simulation](https://phet.colorado.edu/)
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
+## 🧮 Worked Example 1
+**Q:** Calculate the critical angle for glass of n=1.5.
 
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
+**A:** ≈42°
 
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+## 🧮 Worked Example 2
+**Q:** Why does light stay inside an optical fibre?
+
+**A:** Because incidence exceeds the critical angle.
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
+- [PhET Simulation](https://phet.colorado.edu/en/simulation/legacy/optical-fiber)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
+
+📎 See also: [22_Light_Ray_Diagrams_and_Colour_Filters.md](22_Light_Ray_Diagrams_and_Colour_Filters.md)

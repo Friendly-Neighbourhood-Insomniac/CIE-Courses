@@ -1,31 +1,47 @@
-# Sound Properties Speed Pitch Loudness
+# Sound properties speed pitch loudness
 
-## Learning Objectives
-- Explain the fundamental ideas behind Sound Properties Speed Pitch Loudness as set out in the CIE syllabus.
-- Solve problems using standard formulae for Sound Properties Speed Pitch Loudness.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Speed**: Distance travelled per unit time, measured in metres per second.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Sound properties speed pitch loudness
+-->
 
-## Core Explanations
-This section explains the essential principles of Sound Properties Speed Pitch Loudness with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Explain how sound waves are produced and propagate.
+- Relate frequency to pitch and amplitude to loudness.
+- Determine the speed of sound experimentally.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Sound Properties Speed Pitch Loudness.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Pitch**
+- **Loudness**
+- **Echo**
 
-## Interactive Resources
-- [PhET Simulation](https://phet.colorado.edu/)
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
+## 🧮 Worked Example 1
+**Q:** Echo returns in 0.3 s from a wall 50 m away. Speed of sound?
 
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
+**A:** ≈333 m/s
 
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+## 🧮 Worked Example 2
+**Q:** If frequency increases, how does the pitch change?
+
+**A:** Pitch becomes higher.
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
+- [PhET Simulation](https://phet.colorado.edu/en/simulation/sound)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
+
+📎 See also: [19_General_Wave_Properties_Frequency_Wavelength_Speed.md](19_General_Wave_Properties_Frequency_Wavelength_Speed.md)

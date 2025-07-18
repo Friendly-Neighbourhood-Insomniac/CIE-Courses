@@ -1,31 +1,47 @@
-# Efficiency And Energy Transfer
+# Efficiency and energy transfer
 
-## Learning Objectives
-- Explain the fundamental ideas behind Efficiency And Energy Transfer as set out in the CIE syllabus.
-- Solve problems using standard formulae for Efficiency And Energy Transfer.
-- Interpret results with correct units and notation.
+> ❓ How does this topic connect to everyday situations?
 
-## Key Terminology
-- **Energy**: Capacity for doing work, measured in joules.
+<!--
+Gamma Metadata:
+Course: IGCSE Physics Year 10
+Topic: Efficiency and energy transfer
+-->
 
-## Core Explanations
-This section explains the essential principles of Efficiency And Energy Transfer with reference to standard formulae and applications.
+## 🎯 Learning Objectives
+- Define efficiency using energy or power.
+- Calculate efficiency for mechanical devices.
+- Suggest methods to improve efficiency.
 
-## Worked Examples
-1. *Worked Example*: Solve a typical question on Efficiency And Energy Transfer.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+## 🔑 Key Terms
+- **Efficiency**
+- **Input energy**
+- **Output energy**
 
-## Interactive Resources
+## 📘 Core Explanation
+This section summarises the main principles of the topic with reference to the CIE syllabus.
+
+## 🧮 Worked Example 1
+**Q:** A machine takes 200 J and delivers 150 J useful work. Calculate efficiency.
+
+**A:** Efficiency = 75%
+
+## 🧮 Worked Example 2
+**Q:** A 60 W motor operates at 40% efficiency. What is its useful power output?
+
+**A:** 24 W
+
+## 💡 Exam Tips
+- Always show your working and include units.
+- Write answers to an appropriate number of significant figures.
+
+## ⚠️ Common Pitfalls
+- Mixing up related quantities or using inconsistent units.
+- Forgetting vector directions where applicable.
+
+## 🔗 Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
+- [Khan Academy](https://www.khanacademy.org/science/physics)
+- [Save My Exams](https://www.savemyexams.co.uk/)
 
-## Exam Tips
-- Check units carefully when substituting numbers into equations.
-- Show intermediate steps to gain method marks.
-
-## Common Pitfalls
-- Misreading the question or forgetting to convert units can cause errors.
-
-## Worksheet Placeholder
-**[Insert SaveMyExams worksheet link or Canvas PDF embed here]**
+📎 See also: [10_Work_Energy_Power.md](10_Work_Energy_Power.md)
