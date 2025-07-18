@@ -1,4 +1,4 @@
-# Probability
+# Probability Theoretical and Experimental
 
 ## Learning Objectives
 - Interpret the probability scale from 0 to 1 and express probabilities as fractions, decimals or percentages.

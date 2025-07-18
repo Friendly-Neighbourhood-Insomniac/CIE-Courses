@@ -1,4 +1,4 @@
-# Algebra
+# Algebra Solving Linear Simultaneous and Quadratic Equations
 
 ## Learning Objectives
 - Manipulate algebraic expressions using the laws of indices and factorisation.

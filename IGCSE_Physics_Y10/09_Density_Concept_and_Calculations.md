@@ -1,4 +1,4 @@
-# Density Concept And Calculations
+# Density Concept and Calculations
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Density Concept And Calculations as set out in the CIE syllabus.

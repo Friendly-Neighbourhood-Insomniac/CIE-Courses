@@ -1,4 +1,4 @@
-# Measurement Techniques And Instrumentation
+# Measurement Techniques and Instrumentation
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Measurement Techniques And Instrumentation as set out in the CIE syllabus.

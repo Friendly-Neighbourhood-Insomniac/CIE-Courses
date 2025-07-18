@@ -1,4 +1,4 @@
-# Circular Motion and Gravitation
+# Gravitational Fields Field Strength Potential
 
 ## Learning Objectives
 - Describe uniform circular motion and define angular displacement, velocity and acceleration.

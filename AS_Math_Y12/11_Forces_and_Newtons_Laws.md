@@ -1,4 +1,4 @@
-# Forces And Newtons Laws
+# Forces and Newtons Laws
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Forces And Newtons Laws as set out in the CIE syllabus.

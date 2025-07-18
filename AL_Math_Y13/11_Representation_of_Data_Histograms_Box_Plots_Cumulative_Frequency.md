@@ -1,4 +1,4 @@
-# Representation Of Data Histograms Box Plots Cumulative Frequency
+# Representation of Data Histograms Box Plots Cumulative Frequency
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Representation Of Data Histograms Box Plots Cumulative Frequency as set out in the CIE syllabus.

@@ -1,4 +1,4 @@
-# Thermal Physics
+# Kinetic Model of Matter
 
 ## Learning Objectives
 - Describe states of matter in terms of the kinetic particle model.

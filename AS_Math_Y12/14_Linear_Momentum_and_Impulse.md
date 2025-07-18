@@ -1,4 +1,4 @@
-# Linear Momentum And Impulse
+# Linear Momentum and Impulse
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Linear Momentum And Impulse as set out in the CIE syllabus.

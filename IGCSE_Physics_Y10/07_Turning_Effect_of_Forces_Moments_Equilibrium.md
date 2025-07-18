@@ -1,4 +1,4 @@
-# Turning Effect Of Forces Moments Equilibrium
+# Turning Effect of Forces Moments Equilibrium
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Turning Effect Of Forces Moments Equilibrium as set out in the CIE syllabus.

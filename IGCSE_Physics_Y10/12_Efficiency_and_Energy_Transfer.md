@@ -1,4 +1,4 @@
-# Efficiency And Energy Transfer
+# Efficiency and Energy Transfer
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Efficiency And Energy Transfer as set out in the CIE syllabus.

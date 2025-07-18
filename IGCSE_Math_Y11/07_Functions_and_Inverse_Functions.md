@@ -1,4 +1,4 @@
-# Functions And Inverse Functions
+# Functions and Inverse Functions
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Functions And Inverse Functions as set out in the CIE syllabus.

@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# Electromagnetic Induction Generators Transformers
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.

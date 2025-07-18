@@ -1,4 +1,4 @@
-# Scalars And Vectors
+# Scalars and Vectors
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Scalars And Vectors as set out in the CIE syllabus.

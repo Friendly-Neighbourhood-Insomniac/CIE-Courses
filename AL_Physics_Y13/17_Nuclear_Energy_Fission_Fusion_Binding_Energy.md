@@ -1,4 +1,4 @@
-# Nuclear and Quantum Physics
+# Nuclear Energy Fission Fusion Binding Energy
 
 ## Learning Objectives
 - Explain key phenomena of quantum physics including the photoelectric effect and wave–particle duality.

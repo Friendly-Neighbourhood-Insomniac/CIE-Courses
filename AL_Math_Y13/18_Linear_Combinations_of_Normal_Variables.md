@@ -1,4 +1,4 @@
-# Linear Combinations Of Normal Variables
+# Linear Combinations of Normal Variables
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Linear Combinations Of Normal Variables as set out in the CIE syllabus.

@@ -1,4 +1,4 @@
-# Friction And Equilibrium
+# Friction and Equilibrium
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Friction And Equilibrium as set out in the CIE syllabus.

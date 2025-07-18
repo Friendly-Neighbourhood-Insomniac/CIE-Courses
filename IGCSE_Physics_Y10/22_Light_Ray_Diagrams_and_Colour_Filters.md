@@ -1,4 +1,4 @@
-# Light Ray Diagrams And Colour Filters
+# Light Ray Diagrams and Colour Filters
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Light Ray Diagrams And Colour Filters as set out in the CIE syllabus.

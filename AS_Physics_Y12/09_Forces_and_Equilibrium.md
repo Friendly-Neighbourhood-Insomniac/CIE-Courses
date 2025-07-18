@@ -1,4 +1,4 @@
-# Mechanics
+# Forces and Equilibrium
 
 ## Learning Objectives
 - Describe motion in one and two dimensions using displacement, velocity, acceleration and graphs of motion.

@@ -1,4 +1,4 @@
-# Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation
+# Measures of Central Tendency and Spread Mean Median Variance Standard Deviation
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation as set out in the CIE syllabus.

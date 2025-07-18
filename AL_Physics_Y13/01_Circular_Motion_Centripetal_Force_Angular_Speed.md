@@ -1,4 +1,4 @@
-# Circular Motion and Gravitation
+# Circular Motion Centripetal Force Angular Speed
 
 ## Learning Objectives
 - Describe uniform circular motion and define angular displacement, velocity and acceleration.

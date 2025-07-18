@@ -1,4 +1,4 @@
-# Total Internal Reflection And Critical Angle
+# Total Internal Reflection and Critical Angle
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Total Internal Reflection And Critical Angle as set out in the CIE syllabus.

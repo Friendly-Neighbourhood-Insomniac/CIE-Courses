@@ -1,4 +1,4 @@
-# Thermal Physics
+# Pressure and Ideal Gas Law
 
 ## Learning Objectives
 - Describe states of matter in terms of the kinetic particle model.

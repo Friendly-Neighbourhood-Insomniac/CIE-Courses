@@ -1,4 +1,4 @@
-# Directed Numbers And Standard Form
+# Directed Numbers and Standard Form
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Directed Numbers And Standard Form as set out in the CIE syllabus.

@@ -1,4 +1,4 @@
-# Series Arithmetic And Geometric Progressions
+# Series Arithmetic and Geometric Progressions
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Series Arithmetic And Geometric Progressions as set out in the CIE syllabus.

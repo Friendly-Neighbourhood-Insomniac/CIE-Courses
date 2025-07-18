@@ -1,4 +1,4 @@
-# Complex Numbers
+# Complex Numbers Argand Diagram Polar Form de Moivre
 
 ## Learning Objectives
 - Perform arithmetic with complex numbers in Cartesian and polar forms.

@@ -1,4 +1,4 @@
-# Measurement Techniques And Uncertainties
+# Measurement Techniques and Uncertainties
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Measurement Techniques And Uncertainties as set out in the CIE syllabus.

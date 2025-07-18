@@ -1,4 +1,4 @@
-# Physical Quantities And Si Units
+# Physical Quantities and SI Units
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Physical Quantities And Si Units as set out in the CIE syllabus.

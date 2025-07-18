@@ -1,4 +1,4 @@
-# Reflection And Refraction
+# Reflection and Refraction
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Reflection And Refraction as set out in the CIE syllabus.

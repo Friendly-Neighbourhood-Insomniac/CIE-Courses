@@ -1,4 +1,4 @@
-# Calculus
+# Differentiation Parametric Rates of Change Second Derivatives
 
 ## Learning Objectives
 - Differentiate and integrate a wide range of functions including exponential, logarithmic and trigonometric forms.

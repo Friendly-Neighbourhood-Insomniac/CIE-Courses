@@ -1,4 +1,4 @@
-# Thermal Physics
+# Thermal Expansion and Temperature Measurement
 
 ## Learning Objectives
 - Describe states of matter in terms of the kinetic particle model.

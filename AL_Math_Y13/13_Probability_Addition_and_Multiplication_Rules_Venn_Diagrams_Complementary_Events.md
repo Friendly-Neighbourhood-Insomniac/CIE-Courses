@@ -1,4 +1,4 @@
-# Probability Addition And Multiplication Rules Venn Diagrams Complementary Events
+# Probability Addition and Multiplication Rules Venn Diagrams Complementary Events
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Probability Addition And Multiplication Rules Venn Diagrams Complementary Events as set out in the CIE syllabus.

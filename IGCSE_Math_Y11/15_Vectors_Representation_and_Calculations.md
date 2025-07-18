@@ -1,4 +1,4 @@
-# Vectors Representation And Calculations
+# Vectors Representation and Calculations
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Vectors Representation And Calculations as set out in the CIE syllabus.

@@ -1,4 +1,4 @@
-# Geometry and Trigonometry
+# Trigonometry Rightangled Triangles Sine Cosine Rule
 
 ## Learning Objectives
 - Solve geometric problems involving angles, polygons, circles, and loci.

@@ -1,4 +1,4 @@
-# Vectors In 3d Dot And Cross Products Applications
+# Vectors in 3D Dot and Cross Products Applications
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Vectors In 3d Dot And Cross Products Applications as set out in the CIE syllabus.

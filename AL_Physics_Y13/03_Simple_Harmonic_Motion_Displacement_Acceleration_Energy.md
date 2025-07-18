@@ -1,4 +1,4 @@
-# Oscillations
+# Simple Harmonic Motion Displacement Acceleration Energy
 
 ## Learning Objectives
 - Define simple harmonic motion (SHM) and identify systems that perform SHM.

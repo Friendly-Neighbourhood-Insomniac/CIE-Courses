@@ -1,4 +1,4 @@
-# Use Of Statistical Tables Binomial And Normal Tables
+# Use of Statistical Tables Binomial and Normal Tables
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Use Of Statistical Tables Binomial And Normal Tables as set out in the CIE syllabus.

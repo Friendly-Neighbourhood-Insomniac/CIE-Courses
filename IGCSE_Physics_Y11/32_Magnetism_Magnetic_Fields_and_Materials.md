@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# Magnetism Magnetic Fields and Materials
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.

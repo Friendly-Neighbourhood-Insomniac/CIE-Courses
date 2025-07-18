@@ -1,4 +1,4 @@
-# Kinematics Equations Of Motion Graphs
+# Kinematics Equations of Motion Graphs
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Kinematics Equations Of Motion Graphs as set out in the CIE syllabus.

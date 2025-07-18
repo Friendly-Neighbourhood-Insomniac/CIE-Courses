@@ -1,4 +1,4 @@
-# Calculus
+# Integration Area Under Curve Definite Indefinite Forms
 
 ## Learning Objectives
 - Differentiate and integrate polynomial, exponential and trigonometric functions using standard rules.

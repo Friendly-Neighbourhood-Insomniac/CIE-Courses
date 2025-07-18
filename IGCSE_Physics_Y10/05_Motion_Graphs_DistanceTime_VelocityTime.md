@@ -1,4 +1,4 @@
-# Motion Graphs Distancetime Velocitytime
+# Motion Graphs DistanceTime VelocityTime
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Motion Graphs Distancetime Velocitytime as set out in the CIE syllabus.

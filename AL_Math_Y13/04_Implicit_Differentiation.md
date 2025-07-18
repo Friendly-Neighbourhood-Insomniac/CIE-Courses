@@ -1,4 +1,4 @@
-# Calculus
+# Implicit Differentiation
 
 ## Learning Objectives
 - Differentiate and integrate a wide range of functions including exponential, logarithmic and trigonometric forms.

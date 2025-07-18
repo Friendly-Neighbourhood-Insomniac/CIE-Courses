@@ -1,4 +1,4 @@
-# General Physics
+# Kinematics Speed Velocity Acceleration
 
 ## Learning Objectives
 - Describe and measure physical quantities using SI units and prefixes.

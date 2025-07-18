@@ -1,4 +1,4 @@
-# Experimental Skills And Data Analysis
+# Experimental Skills and Data Analysis
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Experimental Skills And Data Analysis as set out in the CIE syllabus.

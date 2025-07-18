@@ -1,4 +1,4 @@
-# Mass And Weight
+# Mass and Weight
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Mass And Weight as set out in the CIE syllabus.

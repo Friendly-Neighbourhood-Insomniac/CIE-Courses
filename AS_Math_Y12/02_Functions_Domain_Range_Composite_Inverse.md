@@ -1,4 +1,4 @@
-# Functions
+# Functions Domain Range Composite Inverse
 
 ## Learning Objectives
 - Understand the definition of a function, domain, codomain and range.

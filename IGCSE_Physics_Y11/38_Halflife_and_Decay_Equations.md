@@ -1,4 +1,4 @@
-# Atomic Physics
+# Halflife and Decay Equations
 
 ## Learning Objectives
 - Describe the structure of atoms in terms of nuclei and orbiting electrons.

@@ -1,4 +1,4 @@
-# Electric and Magnetic Fields; Capacitance
+# Electric Fields Coulombs Law Field Strength Potential
 
 ## Learning Objectives
 - Describe electric field lines, potential and equipotential surfaces around point charges and between parallel plates.

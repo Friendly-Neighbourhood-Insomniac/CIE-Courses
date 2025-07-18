@@ -1,4 +1,4 @@
-# Numerical Methods Iteration Newtonraphson
+# Numerical Methods Iteration NewtonRaphson
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Numerical Methods Iteration Newtonraphson as set out in the CIE syllabus.

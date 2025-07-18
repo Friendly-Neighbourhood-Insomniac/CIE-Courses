@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# Ohms Law Graphs and Calculations
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.

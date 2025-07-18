@@ -1,4 +1,4 @@
-# Electromagnetic Spectrum Properties And Uses
+# Electromagnetic Spectrum Properties and Uses
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Electromagnetic Spectrum Properties And Uses as set out in the CIE syllabus.

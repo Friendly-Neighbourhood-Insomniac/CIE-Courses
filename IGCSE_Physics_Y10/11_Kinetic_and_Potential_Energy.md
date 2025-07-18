@@ -1,4 +1,4 @@
-# Kinetic And Potential Energy
+# Kinetic and Potential Energy
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Kinetic And Potential Energy as set out in the CIE syllabus.

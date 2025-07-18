@@ -1,4 +1,4 @@
-# Atomic Physics
+# Structure of the Atom Protons Neutrons Electrons
 
 ## Learning Objectives
 - Describe the structure of atoms in terms of nuclei and orbiting electrons.

@@ -1,4 +1,4 @@
-# Trigonometry
+# Trigonometric Identities and Equations (Advanced)
 
 ## Learning Objectives
 - Apply compound-angle, double-angle and half-angle formulae in solving trigonometric problems.

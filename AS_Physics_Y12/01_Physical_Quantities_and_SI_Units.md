@@ -1,4 +1,4 @@
-# Physical Quantities and Units
+# Physical Quantities and SI Units
 
 ## Learning Objectives
 - Recognise the base quantities and their corresponding SI units and symbols.

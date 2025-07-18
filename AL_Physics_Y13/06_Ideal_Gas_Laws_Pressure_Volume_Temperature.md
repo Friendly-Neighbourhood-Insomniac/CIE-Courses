@@ -1,4 +1,4 @@
-# Thermal Physics and Ideal Gases
+# Ideal Gas Laws Pressure Volume Temperature
 
 ## Learning Objectives
 - Describe the kinetic theory of gases and how particle motion relates to macroscopic quantities like pressure and temperature.

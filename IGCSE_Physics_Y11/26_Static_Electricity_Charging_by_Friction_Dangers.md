@@ -1,4 +1,4 @@
-# Static Electricity Charging By Friction Dangers
+# Static Electricity Charging by Friction Dangers
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Static Electricity Charging By Friction Dangers as set out in the CIE syllabus.

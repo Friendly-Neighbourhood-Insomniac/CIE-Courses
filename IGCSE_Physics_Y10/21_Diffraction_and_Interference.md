@@ -1,4 +1,4 @@
-# Diffraction And Interference
+# Diffraction and Interference
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Diffraction And Interference as set out in the CIE syllabus.

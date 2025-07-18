@@ -1,4 +1,4 @@
-# Work Energy And Power
+# Work Energy and Power
 
 ## Learning Objectives
 - Explain the fundamental ideas behind Work Energy And Power as set out in the CIE syllabus.

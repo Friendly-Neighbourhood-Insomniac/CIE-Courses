@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# Electrical Energy and Power
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.
