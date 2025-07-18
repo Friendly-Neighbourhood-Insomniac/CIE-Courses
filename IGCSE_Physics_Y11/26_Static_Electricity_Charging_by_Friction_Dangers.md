@@ -1,21 +1,19 @@
 # Static Electricity Charging By Friction Dangers
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Static Electricity Charging By Friction Dangers as set out in the CIE syllabus.
-- Solve problems using standard formulae for Static Electricity Charging By Friction Dangers.
-- Interpret results with correct units and notation.
+- Describe charging by friction and by induction.
+- Explain electric field lines and sparks.
+- Identify safety measures for static electricity.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Static Electricity Charging By Friction Dangers with reference to standard formulae and applications.
+When certain materials rub together, electrons are transferred creating positive and negative charges. Charged objects experience forces and can discharge with a spark if the potential difference becomes large. Static build-up can be dangerous near flammable gases.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Static Electricity Charging By Friction Dangers.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Balloon rubbing*: Describe and explain the charging of a balloon rubbed on hair.
+2. *Fuel tanker*: Suggest methods to prevent static sparks when refuelling aircraft.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

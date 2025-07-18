@@ -1,9 +1,9 @@
 # Work Energy And Power
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Work Energy And Power as set out in the CIE syllabus.
-- Solve problems using standard formulae for Work Energy And Power.
-- Interpret results with correct units and notation.
+- Apply the work–energy principle \(W=\Delta E_k\).
+- Calculate gravitational potential energy change \(mgh\) and mechanical power \(P=Fv\).
+- Use conservation of energy in solving dynamics problems.
 
 ## Key Terminology
 - **Work**: Energy transferred when a force moves its point of application.
@@ -11,13 +11,11 @@
 - **Power**: Rate at which work is done or energy is transferred.
 
 ## Core Explanations
-This section explains the essential principles of Work Energy And Power with reference to standard formulae and applications.
+Work done by a constant force is the product of force and displacement in the direction of the force.  Energy can be transferred between kinetic and potential forms.  Power measures the rate of energy transfer and is often expressed in watts.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Work Energy And Power.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Lifting a weight*: Find the work done and power output when a 20 kg mass is raised 3 m in 4 s.
+2. *Energy conservation*: Calculate the speed of a block sliding down a frictionless track using loss in potential energy.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

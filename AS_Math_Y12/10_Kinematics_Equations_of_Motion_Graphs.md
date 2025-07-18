@@ -1,21 +1,19 @@
 # Kinematics Equations Of Motion Graphs
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Kinematics Equations Of Motion Graphs as set out in the CIE syllabus.
-- Solve problems using standard formulae for Kinematics Equations Of Motion Graphs.
-- Interpret results with correct units and notation.
+- Apply the constant-acceleration equations \(v=u+at\) and \(s=ut+\tfrac{1}{2}at^2\).
+- Interpret displacement–time and velocity–time graphs.
+- Solve uniform acceleration problems in one dimension.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Kinematics Equations Of Motion Graphs with reference to standard formulae and applications.
+Kinematics describes motion using equations linking displacement \(s\), initial velocity \(u\), final velocity \(v\), acceleration \(a\) and time \(t\).  Graphs provide a visual method: the gradient of a displacement–time graph gives velocity, while the area under a velocity–time graph gives displacement.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Kinematics Equations Of Motion Graphs.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Equation application*: A car accelerates from rest at \(2\,\text{m s}^{-2}\) for 5 s. Calculate its final speed and distance travelled.
+2. *Graph reading*: From a velocity–time graph, determine acceleration and total displacement during a journey.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

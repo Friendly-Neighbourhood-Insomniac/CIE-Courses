@@ -1,21 +1,19 @@
 # Digital Electronics
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Digital Electronics as set out in the CIE syllabus.
-- Solve problems using standard formulae for Digital Electronics.
-- Interpret results with correct units and notation.
+- Understand binary states and logic gates.
+- Draw truth tables for AND, OR, NOT, NAND, NOR.
+- Recognize simple logic circuits in devices.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Digital Electronics with reference to standard formulae and applications.
+Digital circuits operate using two voltage levels representing 0 and 1. Combining logic gates allows construction of circuits that perform functions such as switching and memory. Truth tables summarise the output for all input combinations.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Digital Electronics.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Truth table*: Produce the truth table for an AND gate followed by a NOT gate.
+2. *Logic design*: Design a simple alarm circuit that triggers when two switches are closed.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

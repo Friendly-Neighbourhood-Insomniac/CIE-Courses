@@ -1,21 +1,19 @@
 # Directed Numbers And Standard Form
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Directed Numbers And Standard Form as set out in the CIE syllabus.
-- Solve problems using standard formulae for Directed Numbers And Standard Form.
-- Interpret results with correct units and notation.
+- Perform arithmetic operations with positive and negative numbers.
+- Convert between ordinary numbers and standard form \(a \times 10^n\).
+- Multiply and divide numbers expressed in standard form.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Directed Numbers And Standard Form with reference to standard formulae and applications.
+Directed numbers follow sign rules for addition, subtraction, multiplication and division.  Standard form expresses numbers as \(a \times 10^n\) where \(1\le a<10\) and \(n\) is an integer.  Calculations with standard form often require use of index laws and a calculator.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Directed Numbers And Standard Form.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Standard form calculation*: Express \(-4500\) in standard form and multiply by \(3\times10^4\).
+2. *Directed number word problem*: Evaluate \(-8-(-3)\times5\) showing all steps.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

@@ -1,21 +1,19 @@
 # Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation as set out in the CIE syllabus.
-- Solve problems using standard formulae for Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation.
-- Interpret results with correct units and notation.
+- Calculate mean, median and mode for discrete and grouped data.
+- Determine variance and standard deviation using the appropriate formulae.
+- Compare sets of data using measures of central tendency and spread.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation with reference to standard formulae and applications.
+The mean of \(n\) values is \(\bar{x}=\frac{\sum x}{n}\).  Variance is calculated as \(\sigma^2=\frac{\sum(x-\bar{x})^2}{n}\) and standard deviation is its square root.  In grouped data, mid-interval values are used for the calculations.  These measures summarise the location and dispersion of a distribution.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Calculating mean and SD*: Given a frequency table, compute the mean and standard deviation of the data.
+2. *Comparing data sets*: Decide which of two distributions is more consistent using variance.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

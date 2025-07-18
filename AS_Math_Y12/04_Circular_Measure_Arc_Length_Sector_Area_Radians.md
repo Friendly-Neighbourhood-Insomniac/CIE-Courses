@@ -1,21 +1,19 @@
 # Circular Measure Arc Length Sector Area Radians
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Circular Measure Arc Length Sector Area Radians as set out in the CIE syllabus.
-- Solve problems using standard formulae for Circular Measure Arc Length Sector Area Radians.
-- Interpret results with correct units and notation.
+- Convert angles between degrees and radians.
+- Use \(s=r\theta\) and \(A=\tfrac{1}{2}r^2\theta\) for arc length and sector area.
+- Solve trigonometric equations expressed in radians.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Circular Measure Arc Length Sector Area Radians with reference to standard formulae and applications.
+Radians measure angle as the ratio of arc length to radius.  Common conversions include \(180^\circ=\pi\) radians.  The arc length of a circle is \(s=r\theta\) when \(\theta\) is in radians, and the area of a sector is \(A=\tfrac{1}{2}r^2\theta\).
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Circular Measure Arc Length Sector Area Radians.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Arc length*: Find the length of an arc of radius 5 cm subtending \(2.1\) radians.
+2. *Sector area*: Calculate the area of a sector with \(r=8\) cm and angle \(75^\circ\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

@@ -1,21 +1,19 @@
 # Scalars And Vectors
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Scalars And Vectors as set out in the CIE syllabus.
-- Solve problems using standard formulae for Scalars And Vectors.
-- Interpret results with correct units and notation.
+- Define scalar and vector quantities with examples.
+- Add vectors graphically using the triangle method.
+- Resolve a vector into horizontal and vertical components.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Scalars And Vectors with reference to standard formulae and applications.
+Scalars have magnitude only, while vectors have both magnitude and direction.  Vector addition can be carried out by drawing them head to tail.  Components along perpendicular axes allow easier calculations in two dimensions.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Scalars And Vectors.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Vector addition*: Determine the resultant of a 6 N force east and 8 N force north.
+2. *Resolving components*: Find the horizontal and vertical components of a 10 N force at 40° to the horizontal.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

@@ -1,21 +1,19 @@
 # Total Internal Reflection And Critical Angle
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Total Internal Reflection And Critical Angle as set out in the CIE syllabus.
-- Solve problems using standard formulae for Total Internal Reflection And Critical Angle.
-- Interpret results with correct units and notation.
+- Define the critical angle for a boundary between two media.
+- Determine conditions for total internal reflection.
+- Apply \(n=\tfrac{1}{\sin c}\) to calculate the critical angle.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Total Internal Reflection And Critical Angle with reference to standard formulae and applications.
+When light travels from a denser to a less dense medium, the refracted ray bends away from the normal. Beyond a certain incident angle—the critical angle—refraction ceases and all the light is reflected internally.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Total Internal Reflection And Critical Angle.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Calculating critical angle*: For glass of refractive index 1.5, find the critical angle with air.
+2. *Optical fibre*: Explain why total internal reflection keeps light trapped inside a fibre optic cable.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

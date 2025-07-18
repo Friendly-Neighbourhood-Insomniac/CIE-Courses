@@ -1,21 +1,19 @@
 # Coordinate Geometry Gradient Midpoint Line Equation
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Coordinate Geometry Gradient Midpoint Line Equation as set out in the CIE syllabus.
-- Solve problems using standard formulae for Coordinate Geometry Gradient Midpoint Line Equation.
-- Interpret results with correct units and notation.
+- Calculate the gradient between two points.
+- Use midpoint formula \(\bigl(\tfrac{x_1+x_2}{2},\tfrac{y_1+y_2}{2}\bigr)\).
+- Determine the equation of a line in the form \(y=mx+c\).
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Coordinate Geometry Gradient Midpoint Line Equation with reference to standard formulae and applications.
+Gradient is the ratio of vertical change to horizontal change. The midpoint gives the coordinates halfway between two points. Knowing the gradient and a point allows the line equation to be found using \(y-y_1=m(x-x_1)\).
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Coordinate Geometry Gradient Midpoint Line Equation.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Find a gradient*: Calculate the gradient of the line joining \((2,3)\) and \((5,11)\).
+2. *Line through two points*: Determine the equation of the line through \((1,-2)\) and \((4,7)\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

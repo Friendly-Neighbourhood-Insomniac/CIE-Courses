@@ -1,21 +1,19 @@
 # Density Concept And Calculations
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Density Concept And Calculations as set out in the CIE syllabus.
-- Solve problems using standard formulae for Density Concept And Calculations.
-- Interpret results with correct units and notation.
+- Define density as mass divided by volume.
+- Measure volume of irregular objects using displacement.
+- Perform density calculations for solids and liquids.
 
 ## Key Terminology
 - **Density**: Mass per unit volume.
 
 ## Core Explanations
-This section explains the essential principles of Density Concept And Calculations with reference to standard formulae and applications.
+Density \(\rho=\frac{m}{V}\) is a property of materials. The volume of an irregular solid can be found by water displacement. Comparing densities helps predict whether an object will float or sink.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Density Concept And Calculations.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Regular solid*: Calculate the density of a metal cube of side 3 cm and mass 81 g.
+2. *Irregular solid*: Determine the density of a stone using a measuring cylinder and balance.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

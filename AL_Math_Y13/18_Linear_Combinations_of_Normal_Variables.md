@@ -1,21 +1,19 @@
 # Linear Combinations Of Normal Variables
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Linear Combinations Of Normal Variables as set out in the CIE syllabus.
-- Solve problems using standard formulae for Linear Combinations Of Normal Variables.
-- Interpret results with correct units and notation.
+- Form linear combinations \(aX+bY\) of independent normal variables.
+- Derive the resulting mean and variance of the combination.
+- Apply the normal model to sums and differences of measurements.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Linear Combinations Of Normal Variables with reference to standard formulae and applications.
+If \(X\sim N(\mu_X,\sigma_X^2)\) and \(Y\sim N(\mu_Y,\sigma_Y^2)\) are independent, then \(aX+bY\) is normally distributed with mean \(a\mu_X+b\mu_Y\) and variance \(a^2\sigma_X^2+b^2\sigma_Y^2\).  This allows modelling of totals and differences of measurements subject to random error.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Linear Combinations Of Normal Variables.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Sum of normals*: Find the distribution of \(X+Y\) when \(X\sim N(10,4)\) and \(Y\sim N(5,1)\).
+2. *Difference of readings*: Determine \(P(X-Y>2)\) for two independent measurements with known means and variances.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

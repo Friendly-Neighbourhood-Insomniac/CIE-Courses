@@ -1,21 +1,19 @@
 # Normal Distribution Standardisation Zscores Areas Under Curve
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Normal Distribution Standardisation Zscores Areas Under Curve as set out in the CIE syllabus.
-- Solve problems using standard formulae for Normal Distribution Standardisation Zscores Areas Under Curve.
-- Interpret results with correct units and notation.
+- Recognise features of the normal distribution with mean \(\mu\) and variance \(\sigma^2\).
+- Convert raw scores to standardised values using \(Z=\frac{X-\mu}{\sigma}\).
+- Use tables to find probabilities and areas under the normal curve.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Normal Distribution Standardisation Zscores Areas Under Curve with reference to standard formulae and applications.
+Many real-world variables follow a bell-shaped normal distribution.  Standardising allows any normal variable to be compared with the standard normal table.  Probabilities correspond to areas under the curve and can be found using symmetry and complements.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Normal Distribution Standardisation Zscores Areas Under Curve.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Finding a probability*: Given \(X\sim N(50,9)\), find \(P(X>54)\) using a Z-score.
+2. *Inverse normal*: Determine the mark corresponding to the top 10\% when \(X\sim N(65,16)\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

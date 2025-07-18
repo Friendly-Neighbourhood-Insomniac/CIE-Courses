@@ -1,21 +1,19 @@
 # Practical Skills Planning Analysis Uncertainties
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Practical Skills Planning Analysis Uncertainties as set out in the CIE syllabus.
-- Solve problems using standard formulae for Practical Skills Planning Analysis Uncertainties.
-- Interpret results with correct units and notation.
+- Plan investigations identifying variables and relevant safety considerations.
+- Analyse data using appropriate significant figures and units.
+- Calculate percentage uncertainties and combine errors in derived quantities.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Practical Skills Planning Analysis Uncertainties with reference to standard formulae and applications.
+Experiments require a clear procedure, identification of control variables and assessment of risk.  When processing data, uncertainties must be quoted to an appropriate number of significant figures.  Combining uncertainties follows the rules for addition, subtraction and multiplication of quantities.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Practical Skills Planning Analysis Uncertainties.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Graph analysis*: Determine the gradient and its uncertainty from an experimental \(y\)–\(x\) graph.
+2. *Uncertainty calculation*: Combine percentage uncertainties for mass and volume to find the uncertainty in density.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

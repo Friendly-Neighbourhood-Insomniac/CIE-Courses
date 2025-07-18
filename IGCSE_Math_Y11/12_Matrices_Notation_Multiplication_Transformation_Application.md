@@ -1,21 +1,19 @@
 # Matrices Notation Multiplication Transformation Application
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Matrices Notation Multiplication Transformation Application as set out in the CIE syllabus.
-- Solve problems using standard formulae for Matrices Notation Multiplication Transformation Application.
-- Interpret results with correct units and notation.
+- Understand matrix notation and order.
+- Multiply 2\times2 matrices and use them for transformations.
+- Apply matrices to solve simple linear equations.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Matrices Notation Multiplication Transformation Application with reference to standard formulae and applications.
+Matrices represent linear transformations such as rotations and reflections.  Multiplication combines transformations.  The identity matrix leaves vectors unchanged, while the inverse matrix reverses a transformation when it exists.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Matrices Notation Multiplication Transformation Application.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Matrix multiplication*: Multiply \(\begin{pmatrix}1&2\\0&1\end{pmatrix}\) by \(\begin{pmatrix}3\\4\end{pmatrix}\).
+2. *Inverse matrix*: Use a 2\times2 matrix to represent a reflection and find its inverse.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

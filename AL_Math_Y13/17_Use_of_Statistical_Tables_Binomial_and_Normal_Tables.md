@@ -1,21 +1,19 @@
 # Use Of Statistical Tables Binomial And Normal Tables
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Use Of Statistical Tables Binomial And Normal Tables as set out in the CIE syllabus.
-- Solve problems using standard formulae for Use Of Statistical Tables Binomial And Normal Tables.
-- Interpret results with correct units and notation.
+- Read binomial and normal probability tables accurately.
+- Interpolate between tabulated values when necessary.
+- Apply table values to answer exam-style probability questions.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Use Of Statistical Tables Binomial And Normal Tables with reference to standard formulae and applications.
+Statistical tables provide cumulative binomial probabilities and areas under the standard normal curve.  Entries correspond to specific parameters such as \(n\), \(p\) or \(z\).  Understanding how to locate the correct value and use symmetry is crucial for quick calculations.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Use Of Statistical Tables Binomial And Normal Tables.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Using binomial tables*: Evaluate \(P(X\ge7)\) for \(X\sim B(10,0.4)\) from the cumulative table.
+2. *Normal table lookup*: Find \(z\) such that \(P(Z<z)=0.975\) using the standard normal table.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

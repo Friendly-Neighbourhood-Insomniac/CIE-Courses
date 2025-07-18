@@ -1,21 +1,19 @@
 # Reflection And Refraction
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Reflection And Refraction as set out in the CIE syllabus.
-- Solve problems using standard formulae for Reflection And Refraction.
-- Interpret results with correct units and notation.
+- Apply the law of reflection \(i=r\).
+- Use Snell's law \(n_1\sin i=n_2\sin r\) for refraction.
+- Describe effects such as total internal reflection.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Reflection And Refraction with reference to standard formulae and applications.
+Reflection occurs when a wave bounces off a surface; the angle of incidence equals the angle of reflection. Refraction is the change in direction of a wave passing between media of different densities, governed by Snell's law.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Reflection And Refraction.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Snell's law*: A light ray enters glass at 30°. If the refractive index is 1.5, find the angle of refraction.
+2. *Total internal reflection*: Determine the critical angle for light going from water \(n=1.33\) to air.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

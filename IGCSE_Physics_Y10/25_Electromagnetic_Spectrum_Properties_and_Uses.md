@@ -1,21 +1,19 @@
 # Electromagnetic Spectrum Properties And Uses
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Electromagnetic Spectrum Properties And Uses as set out in the CIE syllabus.
-- Solve problems using standard formulae for Electromagnetic Spectrum Properties And Uses.
-- Interpret results with correct units and notation.
+- List the regions of the electromagnetic spectrum from radio to gamma rays.
+- Describe common applications of each type of radiation.
+- State hazards associated with high-frequency radiation.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Electromagnetic Spectrum Properties And Uses with reference to standard formulae and applications.
+All electromagnetic waves travel at the same speed in a vacuum but differ in frequency and wavelength. Uses range from radio communication to medical imaging. Excessive exposure to UV or gamma rays can damage living tissue.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Electromagnetic Spectrum Properties And Uses.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Ordering waves*: Arrange microwaves, X-rays and infrared in order of increasing frequency.
+2. *Application*: Explain why gamma rays are used for sterilising medical equipment.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

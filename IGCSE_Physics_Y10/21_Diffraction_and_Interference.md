@@ -1,21 +1,19 @@
 # Diffraction And Interference
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Diffraction And Interference as set out in the CIE syllabus.
-- Solve problems using standard formulae for Diffraction And Interference.
-- Interpret results with correct units and notation.
+- Recognize diffraction patterns from apertures and obstacles.
+- Understand constructive and destructive interference.
+- Use the double-slit formula \(d\sin\theta=m\lambda\).
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Diffraction And Interference with reference to standard formulae and applications.
+When waves pass through a narrow gap they spread out, an effect called diffraction. Interference occurs when two coherent waves overlap, producing bright and dark fringes. The spacing of fringes depends on wavelength, slit separation and distance to the screen.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Diffraction And Interference.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Fringe spacing*: Calculate the distance between interference fringes for light of wavelength 600 nm passing through slits 0.5 mm apart onto a screen 1 m away.
+2. *Single-slit diffraction*: Explain how the width of the central maximum changes with slit width.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
