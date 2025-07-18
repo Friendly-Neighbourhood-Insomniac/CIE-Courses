@@ -1,21 +1,19 @@
 # Light Ray Diagrams And Colour Filters
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Light Ray Diagrams And Colour Filters as set out in the CIE syllabus.
-- Solve problems using standard formulae for Light Ray Diagrams And Colour Filters.
-- Interpret results with correct units and notation.
+- Draw ray diagrams for mirrors and lenses.
+- Use colour filters to absorb or transmit light of selected wavelengths.
+- Explain primary and secondary colour mixing.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Light Ray Diagrams And Colour Filters with reference to standard formulae and applications.
+Ray diagrams show the paths light takes when it reflects or refracts. Colour filters work by absorbing certain wavelengths while transmitting others. Combining red, green and blue light produces secondary colours.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Light Ray Diagrams And Colour Filters.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Lens diagram*: Draw the image formation by a converging lens for an object beyond 2F.
+2. *Filter application*: Determine the colour transmitted when white light passes through a blue then yellow filter.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

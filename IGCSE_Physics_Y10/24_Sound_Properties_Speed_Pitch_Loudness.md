@@ -1,21 +1,19 @@
 # Sound Properties Speed Pitch Loudness
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Sound Properties Speed Pitch Loudness as set out in the CIE syllabus.
-- Solve problems using standard formulae for Sound Properties Speed Pitch Loudness.
-- Interpret results with correct units and notation.
+- Explain how sound travels as longitudinal waves.
+- Relate pitch to frequency and loudness to amplitude.
+- Measure sound speed using time-of-flight techniques.
 
 ## Key Terminology
 - **Speed**: Distance travelled per unit time, measured in metres per second.
 
 ## Core Explanations
-This section explains the essential principles of Sound Properties Speed Pitch Loudness with reference to standard formulae and applications.
+Sound requires a medium and propagates as successive compressions and rarefactions. Higher frequency means higher pitch, while greater amplitude means louder sound. The speed of sound in air is about 340 m/s and can be measured with echoes.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Sound Properties Speed Pitch Loudness.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Echo method*: Measure the distance to a cliff using the time delay of an echo.
+2. *Pitch change*: Compare the frequencies of notes C4 and C5 to discuss octave relationships.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

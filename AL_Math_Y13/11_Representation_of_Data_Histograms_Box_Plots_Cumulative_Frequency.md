@@ -1,21 +1,19 @@
 # Representation Of Data Histograms Box Plots Cumulative Frequency
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Representation Of Data Histograms Box Plots Cumulative Frequency as set out in the CIE syllabus.
-- Solve problems using standard formulae for Representation Of Data Histograms Box Plots Cumulative Frequency.
-- Interpret results with correct units and notation.
+- Construct histograms using frequency density and unequal class widths.
+- Interpret box-and-whisker plots to compare distributions.
+- Use cumulative frequency curves to estimate median and quartiles.
 
 ## Key Terminology
 - **Frequency**: Number of oscillations per second of a wave.
 
 ## Core Explanations
-This section explains the essential principles of Representation Of Data Histograms Box Plots Cumulative Frequency with reference to standard formulae and applications.
+Histograms display grouped data where the area of each bar represents frequency. Box plots summarise data using the five-number summary. Cumulative frequency diagrams allow estimation of percentiles and spread, useful for interpreting exam statistics.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Representation Of Data Histograms Box Plots Cumulative Frequency.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Histogram analysis*: Draw a histogram for a grouped frequency table and find the modal class.
+2. *Cumulative frequency*: From cumulative data, estimate the median and interquartile range.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

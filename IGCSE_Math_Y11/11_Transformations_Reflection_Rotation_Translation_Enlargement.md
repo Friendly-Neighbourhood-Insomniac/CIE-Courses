@@ -1,21 +1,19 @@
 # Transformations Reflection Rotation Translation Enlargement
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Transformations Reflection Rotation Translation Enlargement as set out in the CIE syllabus.
-- Solve problems using standard formulae for Transformations Reflection Rotation Translation Enlargement.
-- Interpret results with correct units and notation.
+- Describe reflections, rotations, translations and enlargements using coordinates.
+- Use matrices to represent these transformations.
+- Combine successive transformations and determine their overall effect.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Transformations Reflection Rotation Translation Enlargement with reference to standard formulae and applications.
+A reflection in the x-axis changes \((x,y)\) to \((x,-y)\); rotations are defined by a centre and angle; translations move points by a vector \(\begin{pmatrix}a\\b\end{pmatrix}\); and enlargements scale distances from a centre by a scale factor.  Matrices provide a concise representation.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Transformations Reflection Rotation Translation Enlargement.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Matrix transformation*: Apply a rotation matrix to \((1,0)\) and state the new coordinates.
+2. *Combination*: Perform a reflection in the y-axis followed by a translation by \((3,-1)\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

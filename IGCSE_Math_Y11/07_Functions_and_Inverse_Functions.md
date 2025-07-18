@@ -1,21 +1,19 @@
 # Functions And Inverse Functions
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Functions And Inverse Functions as set out in the CIE syllabus.
-- Solve problems using standard formulae for Functions And Inverse Functions.
-- Interpret results with correct units and notation.
+- Interpret function notation such as \(f(x)\) and evaluate functions for given inputs.
+- Find and use inverse functions algebraically and graphically.
+- Sketch a function and its inverse on the same axes.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Functions And Inverse Functions with reference to standard formulae and applications.
+A function maps each input to one output.  The inverse function reverses this process, provided the original function is one-to-one.  On a graph, the inverse is a reflection in the line \(y=x\).
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Functions And Inverse Functions.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Finding an inverse*: If \(f(x)=3x-5\), determine \(f^{-1}(x)\) and verify the composition.
+2. *Graph sketch*: Plot \(y=x^2\) for \(x\ge0\) and its inverse on the same diagram.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

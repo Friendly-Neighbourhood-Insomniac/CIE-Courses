@@ -1,21 +1,19 @@
 # Physical Quantities And Si Units
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Physical Quantities And Si Units as set out in the CIE syllabus.
-- Solve problems using standard formulae for Physical Quantities And Si Units.
-- Interpret results with correct units and notation.
+- Recall base quantities and their SI units.
+- Convert between multiples and submultiples using standard prefixes.
+- Use appropriate units when expressing calculated values.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Physical Quantities And Si Units with reference to standard formulae and applications.
+The SI system defines base units such as metre, kilogram and second. Prefixes like kilo-, milli- and mega- indicate powers of ten. Correct unit conversion is essential when substituting values into equations.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Physical Quantities And Si Units.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Unit conversion*: Express 5 km in metres and centimetres.
+2. *Prefix application*: Convert 0.02 MW to watts and to kilowatts.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

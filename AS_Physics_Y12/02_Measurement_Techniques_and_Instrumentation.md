@@ -1,21 +1,19 @@
 # Measurement Techniques And Instrumentation
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Measurement Techniques And Instrumentation as set out in the CIE syllabus.
-- Solve problems using standard formulae for Measurement Techniques And Instrumentation.
-- Interpret results with correct units and notation.
+- Use vernier calipers and micrometers to make precise length measurements.
+- Calibrate sensors and discuss systematic and random errors.
+- Quote readings with appropriate significant figures and uncertainties.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Measurement Techniques And Instrumentation with reference to standard formulae and applications.
+Accurate measurements rely on correctly zeroing instruments and estimating the smallest scale division.  Uncertainties are expressed as absolute or percentage values.  Calibration curves allow non-linear instruments to be used over a range.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Measurement Techniques And Instrumentation.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Using a micrometer*: Measure the diameter of a wire and state its uncertainty.
+2. *Calibration exercise*: Plot a calibration curve for a thermistor and use it to determine an unknown temperature.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

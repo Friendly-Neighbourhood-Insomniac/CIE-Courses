@@ -1,21 +1,19 @@
 # Vectors In 3d Dot And Cross Products Applications
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Vectors In 3d Dot And Cross Products Applications as set out in the CIE syllabus.
-- Solve problems using standard formulae for Vectors In 3d Dot And Cross Products Applications.
-- Interpret results with correct units and notation.
+- Use vector notation for lines and planes in three dimensions.
+- Apply dot and cross products to determine angles, areas and perpendicular distances.
+- Solve geometric problems involving scalar and vector products.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Vectors In 3d Dot And Cross Products Applications with reference to standard formulae and applications.
+The dot product \(\mathbf{a}\cdot\mathbf{b}=|\mathbf{a}||\mathbf{b}|\cos\theta\) gives angles between vectors and projections.  The cross product \(\mathbf{a}\times\mathbf{b}\) produces a vector perpendicular to both with magnitude equal to the area of the parallelogram formed.  Lines and planes can be represented using vector equations.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Vectors In 3d Dot And Cross Products Applications.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Angle between vectors*: Find the acute angle between \((2,1,-1)\) and \((3,0,4)\) using the dot product.
+2. *Area from cross product*: Determine the area of the triangle formed by \((1,0,2)\), \((2,-1,3)\) and \((4,2,5)\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

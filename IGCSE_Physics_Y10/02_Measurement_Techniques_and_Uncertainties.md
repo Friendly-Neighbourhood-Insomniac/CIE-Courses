@@ -1,21 +1,19 @@
 # Measurement Techniques And Uncertainties
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Measurement Techniques And Uncertainties as set out in the CIE syllabus.
-- Solve problems using standard formulae for Measurement Techniques And Uncertainties.
-- Interpret results with correct units and notation.
+- Use common measuring devices such as rulers and stopwatches accurately.
+- Distinguish between random and systematic errors.
+- Estimate measurement uncertainty and express it as a percentage.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Measurement Techniques And Uncertainties with reference to standard formulae and applications.
+Precision is improved by repeating readings and averaging. Uncertainties in measurements combine when quantities are multiplied or divided. Significant figures should reflect the precision of the raw data.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Measurement Techniques And Uncertainties.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Stopwatch timing*: Measure the period of a pendulum over 20 oscillations and calculate the uncertainty in the period.
+2. *Percentage error*: Determine the density of a metal block and estimate its percentage uncertainty from length and mass measurements.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

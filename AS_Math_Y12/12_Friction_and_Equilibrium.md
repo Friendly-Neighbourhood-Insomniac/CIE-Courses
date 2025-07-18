@@ -1,21 +1,19 @@
 # Friction And Equilibrium
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Friction And Equilibrium as set out in the CIE syllabus.
-- Solve problems using standard formulae for Friction And Equilibrium.
-- Interpret results with correct units and notation.
+- Use the model of limiting friction \(F=\mu R\).
+- Solve equilibrium problems for bodies on rough horizontal and inclined surfaces.
+- Distinguish between static and kinetic coefficients of friction.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Friction And Equilibrium with reference to standard formulae and applications.
+Friction acts parallel to surfaces and opposes motion.  At the point of impending motion the frictional force reaches \(\mu R\), where \(\mu\) is the coefficient of friction and \(R\) the normal reaction.  Equilibrium occurs when the vector sum of forces is zero.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Friction And Equilibrium.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Rough plane*: Determine the minimum force needed to start moving a box up a rough slope given \(\mu\) and the angle of incline.
+2. *Horizontal surface*: Find the frictional force when a body moves with constant speed across a rough table.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

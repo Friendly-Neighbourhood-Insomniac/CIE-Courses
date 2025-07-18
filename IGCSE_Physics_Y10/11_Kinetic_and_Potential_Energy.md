@@ -1,21 +1,19 @@
 # Kinetic And Potential Energy
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Kinetic And Potential Energy as set out in the CIE syllabus.
-- Solve problems using standard formulae for Kinetic And Potential Energy.
-- Interpret results with correct units and notation.
+- Calculate kinetic energy using \(E_k=\tfrac{1}{2}mv^2\).
+- Calculate gravitational potential energy change using \(E_p=mgh\).
+- Apply conservation of energy to moving objects.
 
 ## Key Terminology
 - **Energy**: Capacity for doing work, measured in joules.
 
 ## Core Explanations
-This section explains the essential principles of Kinetic And Potential Energy with reference to standard formulae and applications.
+Objects in motion possess kinetic energy proportional to the square of their speed. Gravitational potential energy depends on height in a gravitational field. When friction is negligible, the total mechanical energy remains constant.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Kinetic And Potential Energy.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Pendulum swing*: Calculate the speed of a pendulum bob at its lowest point given its height above that point.
+2. *Car braking*: Find the kinetic energy lost when a car of mass 800 kg slows from 20 m/s to rest.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

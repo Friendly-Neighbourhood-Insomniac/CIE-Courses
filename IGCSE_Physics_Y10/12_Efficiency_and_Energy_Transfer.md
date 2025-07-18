@@ -1,21 +1,19 @@
 # Efficiency And Energy Transfer
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Efficiency And Energy Transfer as set out in the CIE syllabus.
-- Solve problems using standard formulae for Efficiency And Energy Transfer.
-- Interpret results with correct units and notation.
+- Calculate efficiency using \(\frac{\text{useful energy}}{\text{input energy}}\times100\%\).
+- Interpret energy transfer diagrams.
+- Suggest methods to reduce energy losses.
 
 ## Key Terminology
 - **Energy**: Capacity for doing work, measured in joules.
 
 ## Core Explanations
-This section explains the essential principles of Efficiency And Energy Transfer with reference to standard formulae and applications.
+Not all input energy to a device becomes useful output; some is wasted as heat, sound or light. Efficiency is a ratio of useful output to input. Improving efficiency often involves reducing friction or heat loss.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Efficiency And Energy Transfer.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Power station*: If a station produces 200 MJ of electrical energy from 500 MJ of fuel, calculate its efficiency.
+2. *Reducing losses*: Explain how insulation improves the efficiency of a house heating system.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

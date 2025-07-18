@@ -1,21 +1,19 @@
 # Series Arithmetic And Geometric Progressions
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Series Arithmetic And Geometric Progressions as set out in the CIE syllabus.
-- Solve problems using standard formulae for Series Arithmetic And Geometric Progressions.
-- Interpret results with correct units and notation.
+- Apply the formula \(S_n=\tfrac{n}{2}(2a+(n-1)d)\) for arithmetic series.
+- Use \(S_n=a\tfrac{1-r^n}{1-r}\) for geometric progressions and \(S_\infty=\tfrac{a}{1-r}\) when \(|r|<1\).
+- Determine common difference or ratio from given terms.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Series Arithmetic And Geometric Progressions with reference to standard formulae and applications.
+Arithmetic progressions have a constant difference between terms, while geometric progressions multiply by a constant ratio.  Sum formulae are derived using pairing or manipulation of the series.  Convergence of a geometric series occurs when \(|r|<1\).
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Series Arithmetic And Geometric Progressions.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Arithmetic sum*: Find the tenth term and sum of the first ten terms for \(a=3\), \(d=4\).
+2. *Geometric series*: Determine the sum to infinity of \(2+1+\tfrac{1}{2}+\tfrac{1}{4}+\dots\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

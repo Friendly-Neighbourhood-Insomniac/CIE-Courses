@@ -1,22 +1,20 @@
 # Mass And Weight
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Mass And Weight as set out in the CIE syllabus.
-- Solve problems using standard formulae for Mass And Weight.
-- Interpret results with correct units and notation.
+- Distinguish between mass and weight.
+- Use \(W=mg\) to calculate the weight of an object.
+- Understand gravitational field strength on different planets.
 
 ## Key Terminology
 - **Mass**: Quantity of matter in an object, measured in kilograms.
 - **Weight**: Force due to gravity acting on a mass.
 
 ## Core Explanations
-This section explains the essential principles of Mass And Weight with reference to standard formulae and applications.
+Mass is a measure of the amount of matter and is constant everywhere. Weight is the gravitational force on a mass and depends on the local value of \(g\). Astronauts are weightless in orbit but their mass remains unchanged.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Mass And Weight.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Calculating weight*: Find the weight of a 2 kg object on Earth and on the Moon where \(g=1.6\,\text{m s}^{-2}\).
+2. *Mass from weight*: Given a weight reading of 50 N, determine the mass of the object.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

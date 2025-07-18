@@ -1,9 +1,9 @@
 # General Wave Properties Frequency Wavelength Speed
 
 ## Learning Objectives
-- Explain the fundamental ideas behind General Wave Properties Frequency Wavelength Speed as set out in the CIE syllabus.
-- Solve problems using standard formulae for General Wave Properties Frequency Wavelength Speed.
-- Interpret results with correct units and notation.
+- Use \(v=f\lambda\) to relate speed, frequency and wavelength.
+- Describe wavefronts, crests and troughs.
+- Distinguish between transverse and longitudinal waves.
 
 ## Key Terminology
 - **Wave**: Disturbance transferring energy through space or a medium.
@@ -11,13 +11,11 @@
 - **Wavelength**: Distance between two consecutive identical points on a wave.
 
 ## Core Explanations
-This section explains the essential principles of General Wave Properties Frequency Wavelength Speed with reference to standard formulae and applications.
+Waves transfer energy without transferring matter. For any wave, speed equals frequency multiplied by wavelength. Transverse waves oscillate perpendicular to travel direction, while longitudinal waves oscillate along the travel direction.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on General Wave Properties Frequency Wavelength Speed.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Calculate frequency*: A wave travelling at 300 m/s with wavelength 0.5 m has what frequency?
+2. *Identify wave type*: State whether sound in air is transverse or longitudinal and justify.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

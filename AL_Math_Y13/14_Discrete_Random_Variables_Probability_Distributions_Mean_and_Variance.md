@@ -1,21 +1,19 @@
 # Discrete Random Variables Probability Distributions Mean And Variance
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Discrete Random Variables Probability Distributions Mean And Variance as set out in the CIE syllabus.
-- Solve problems using standard formulae for Discrete Random Variables Probability Distributions Mean And Variance.
-- Interpret results with correct units and notation.
+- Define discrete random variables and their probability functions.
+- Calculate expectation and variance using \(E(X)=\sum xP(X=x)\).
+- Interpret distribution tables and solve related probability problems.
 
 ## Key Terminology
 - **Probability**: Measure of likelihood of an event.
 
 ## Core Explanations
-This section explains the essential principles of Discrete Random Variables Probability Distributions Mean And Variance with reference to standard formulae and applications.
+A discrete random variable takes specific values each with a probability between 0 and 1.  The total probability over all outcomes equals 1.  Mean and variance describe the long-run average and spread of values, helping to model real-world random processes.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Discrete Random Variables Probability Distributions Mean And Variance.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Probability table*: For \(X\) with \(P(X=0)=0.2\), \(P(X=1)=0.5\), \(P(X=2)=0.3\), find \(E(X)\) and \(Var(X)\).
+2. *Distribution problem*: Using the given distribution, calculate \(P(X\ge1)\) and interpret its meaning.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

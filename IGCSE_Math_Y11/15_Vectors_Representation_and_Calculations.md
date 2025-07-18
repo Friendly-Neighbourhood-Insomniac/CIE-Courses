@@ -1,21 +1,19 @@
 # Vectors Representation And Calculations
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Vectors Representation And Calculations as set out in the CIE syllabus.
-- Solve problems using standard formulae for Vectors Representation And Calculations.
-- Interpret results with correct units and notation.
+- Represent vectors using column notation or \(i, j\) components.
+- Calculate magnitude and direction of a vector.
+- Add, subtract and multiply vectors by scalars in geometric problems.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Vectors Representation And Calculations with reference to standard formulae and applications.
+A vector \(\mathbf{a}=\begin{pmatrix}x\\y\end{pmatrix}\) has magnitude \(|\mathbf{a}|=\sqrt{x^2+y^2}\) and direction given by \(\tan\theta=\tfrac{y}{x}\).  Vectors can represent displacements or forces and obey triangle rules for addition.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Vectors Representation And Calculations.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Resultant vector*: Find \(3\mathbf{i}+4\mathbf{j}+(-\mathbf{i}+2\mathbf{j})\).
+2. *Magnitude and direction*: Calculate the length and bearing of \(\begin{pmatrix}5\\-2\end{pmatrix}\).
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)

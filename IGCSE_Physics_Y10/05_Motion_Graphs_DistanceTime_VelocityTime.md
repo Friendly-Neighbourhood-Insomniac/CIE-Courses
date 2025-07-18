@@ -1,21 +1,19 @@
 # Motion Graphs Distancetime Velocitytime
 
 ## Learning Objectives
-- Explain the fundamental ideas behind Motion Graphs Distancetime Velocitytime as set out in the CIE syllabus.
-- Solve problems using standard formulae for Motion Graphs Distancetime Velocitytime.
-- Interpret results with correct units and notation.
+- Interpret distance–time and velocity–time graphs.
+- Determine gradients to find speed or acceleration.
+- Use area under a velocity–time graph to calculate displacement.
 
 ## Key Terminology
 - **Concept**: Key idea related to the topic.
 
 ## Core Explanations
-This section explains the essential principles of Motion Graphs Distancetime Velocitytime with reference to standard formulae and applications.
+The slope of a distance–time graph represents speed, while the slope of a velocity–time graph gives acceleration. The area under a velocity–time graph equals the distance travelled. Graph shapes reveal whether motion is uniform or changing.
 
 ## Worked Examples
-1. *Worked Example*: Solve a typical question on Motion Graphs Distancetime Velocitytime.
-   - Outline each calculation step and present the final answer with units.
-2. *Further Practice*: Apply the same principles to a new scenario.
-   - Summarise the reasoning used to reach the solution.
+1. *Finding acceleration*: From a velocity–time graph where velocity increases linearly from 0 to 20 m/s in 4 s, calculate the acceleration.
+2. *Distance from graph*: Determine the total displacement of an object that travels with a triangular velocity–time profile.
 
 ## Interactive Resources
 - [PhET Simulation](https://phet.colorado.edu/)
