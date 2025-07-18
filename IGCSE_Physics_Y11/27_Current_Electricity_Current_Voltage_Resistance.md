@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# Current Electricity Current Voltage Resistance
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.

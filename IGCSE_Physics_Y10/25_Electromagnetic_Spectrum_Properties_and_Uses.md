@@ -1,4 +1,4 @@
-# Electromagnetic Spectrum Properties And Uses
+# Electromagnetic Spectrum Properties and Uses
 
 ## Learning Objectives
 - List the regions of the electromagnetic spectrum from radio to gamma rays.

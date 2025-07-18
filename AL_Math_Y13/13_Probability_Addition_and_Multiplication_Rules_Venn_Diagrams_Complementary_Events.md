@@ -1,4 +1,4 @@
-# Probability Addition And Multiplication Rules Venn Diagrams Complementary Events
+# Probability Addition and Multiplication Rules Venn Diagrams Complementary Events
 
 ## Learning Objectives
 - Apply the addition rule \(P(A\cup B)=P(A)+P(B)-P(A\cap B)\).

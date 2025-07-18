@@ -1,4 +1,4 @@
-# Atomic Physics
+# Radioactivity Alpha Beta Gamma Radiation
 
 ## Learning Objectives
 - Describe the structure of atoms in terms of nuclei and orbiting electrons.

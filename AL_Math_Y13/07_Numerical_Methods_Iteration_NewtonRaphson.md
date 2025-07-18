@@ -1,4 +1,4 @@
-# Numerical Methods Iteration Newtonraphson
+# Numerical Methods Iteration NewtonRaphson
 
 ## Learning Objectives
 - Use iterative formulae to approximate solutions of equations.

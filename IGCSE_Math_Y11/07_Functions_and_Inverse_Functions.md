@@ -1,4 +1,4 @@
-# Functions And Inverse Functions
+# Functions and Inverse Functions
 
 ## Learning Objectives
 - Interpret function notation such as \(f(x)\) and evaluate functions for given inputs.

@@ -1,4 +1,4 @@
-# Representation Of Data Histograms Box Plots Cumulative Frequency
+# Representation of Data Histograms Box Plots Cumulative Frequency
 
 ## Learning Objectives
 - Construct histograms using frequency density and unequal class widths.

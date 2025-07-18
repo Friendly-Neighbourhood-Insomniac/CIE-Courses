@@ -1,4 +1,4 @@
-# Nuclear and Quantum Physics
+# Energy Levels and Spectra
 
 ## Learning Objectives
 - Explain key phenomena of quantum physics including the photoelectric effect and wave–particle duality.

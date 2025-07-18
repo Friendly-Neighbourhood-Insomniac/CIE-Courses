@@ -1,4 +1,4 @@
-# Waves
+# Stationary Waves and Applications
 
 ## Learning Objectives
 - Explain the characteristics of progressive waves including wavefront, phase and energy transfer.

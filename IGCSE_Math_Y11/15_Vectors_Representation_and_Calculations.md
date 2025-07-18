@@ -1,4 +1,4 @@
-# Vectors Representation And Calculations
+# Vectors Representation and Calculations
 
 ## Learning Objectives
 - Represent vectors using column notation or \(i, j\) components.

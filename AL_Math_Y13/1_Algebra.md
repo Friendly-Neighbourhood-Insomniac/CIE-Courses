@@ -1,4 +1,4 @@
-# Algebra and Functions
+# Algebra
 
 ## Learning Objectives
 - Manipulate exponential and logarithmic functions and solve related equations.

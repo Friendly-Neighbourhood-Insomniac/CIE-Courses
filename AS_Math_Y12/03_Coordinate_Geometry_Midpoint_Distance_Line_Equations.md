@@ -1,4 +1,4 @@
-# Coordinate Geometry
+# Coordinate Geometry Midpoint Distance Line Equations
 
 ## Learning Objectives
 - Find equations of lines and circles in the Cartesian plane using gradient and coordinate conditions.

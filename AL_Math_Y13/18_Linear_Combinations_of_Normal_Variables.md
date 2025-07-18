@@ -1,4 +1,4 @@
-# Linear Combinations Of Normal Variables
+# Linear Combinations of Normal Variables
 
 ## Learning Objectives
 - Form linear combinations \(aX+bY\) of independent normal variables.

@@ -1,4 +1,4 @@
-# Directed Numbers And Standard Form
+# Directed Numbers and Standard Form
 
 ## Learning Objectives
 - Perform arithmetic operations with positive and negative numbers.

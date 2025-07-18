@@ -1,4 +1,4 @@
-# Reflection And Refraction
+# Reflection and Refraction
 
 ## Learning Objectives
 - Apply the law of reflection \(i=r\).

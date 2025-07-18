@@ -1,4 +1,4 @@
-# Differential Equations and Numerical Methods
+# Differential Equations Formation and Solution
 
 ## Learning Objectives
 - Solve first and second order differential equations using standard techniques such as integrating factors and auxiliary equations.

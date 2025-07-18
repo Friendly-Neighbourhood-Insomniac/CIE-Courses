@@ -1,4 +1,4 @@
-# Vectors In 3d Dot And Cross Products Applications
+# Vectors in 3D Dot and Cross Products Applications
 
 ## Learning Objectives
 - Use vector notation for lines and planes in three dimensions.

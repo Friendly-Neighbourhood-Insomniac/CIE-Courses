@@ -1,4 +1,4 @@
-# Turning Effect Of Forces Moments Equilibrium
+# Turning Effect of Forces Moments Equilibrium
 
 ## Learning Objectives
 - Calculate moments using \(\text{moment}=F\times d\).

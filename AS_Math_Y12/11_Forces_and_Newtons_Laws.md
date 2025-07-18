@@ -1,4 +1,4 @@
-# Forces And Newtons Laws
+# Forces and Newtons Laws
 
 ## Learning Objectives
 - State Newton's three laws of motion.

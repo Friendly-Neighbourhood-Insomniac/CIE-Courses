@@ -1,4 +1,4 @@
-# Thermal Physics
+# Heat Transfer Conduction Convection Radiation
 
 ## Learning Objectives
 - Describe states of matter in terms of the kinetic particle model.

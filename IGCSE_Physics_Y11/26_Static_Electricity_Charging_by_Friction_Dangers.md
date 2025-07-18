@@ -1,4 +1,4 @@
-# Static Electricity Charging By Friction Dangers
+# Static Electricity Charging by Friction Dangers
 
 ## Learning Objectives
 - Describe charging by friction and by induction.

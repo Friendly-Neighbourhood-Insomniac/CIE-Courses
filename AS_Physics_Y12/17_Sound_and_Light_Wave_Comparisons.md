@@ -1,4 +1,4 @@
-# Waves
+# Sound and Light Wave Comparisons
 
 ## Learning Objectives
 - Explain the characteristics of progressive waves including wavefront, phase and energy transfer.

@@ -1,4 +1,4 @@
-# Measurement Techniques And Uncertainties
+# Measurement Techniques and Uncertainties
 
 ## Learning Objectives
 - Use common measuring devices such as rulers and stopwatches accurately.

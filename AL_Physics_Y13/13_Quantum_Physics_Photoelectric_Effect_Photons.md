@@ -1,4 +1,4 @@
-# Nuclear and Quantum Physics
+# Quantum Physics Photoelectric Effect Photons
 
 ## Learning Objectives
 - Explain key phenomena of quantum physics including the photoelectric effect and wave–particle duality.

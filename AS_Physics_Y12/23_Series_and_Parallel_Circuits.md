@@ -1,4 +1,4 @@
-# Electricity
+# Series and Parallel Circuits
 
 ## Learning Objectives
 - Explain electric current, potential difference, and electromotive force in terms of energy transfer per unit charge.

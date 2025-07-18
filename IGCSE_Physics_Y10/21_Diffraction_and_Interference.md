@@ -1,4 +1,4 @@
-# Diffraction And Interference
+# Diffraction and Interference
 
 ## Learning Objectives
 - Recognize diffraction patterns from apertures and obstacles.

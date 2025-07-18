@@ -1,4 +1,4 @@
-# Geometry and Trigonometry
+# Trigonometry Graphs and Area Calculations
 
 ## Learning Objectives
 - Solve geometric problems involving angles, polygons, circles, and loci.

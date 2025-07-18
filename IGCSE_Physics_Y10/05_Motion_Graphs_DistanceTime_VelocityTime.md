@@ -1,4 +1,4 @@
-# Motion Graphs Distancetime Velocitytime
+# Motion Graphs DistanceTime VelocityTime
 
 ## Learning Objectives
 - Interpret distance–time and velocity–time graphs.

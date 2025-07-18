@@ -1,4 +1,4 @@
-# Atomic Physics
+# Isotopes and Atomic Number
 
 ## Learning Objectives
 - Describe the structure of atoms in terms of nuclei and orbiting electrons.

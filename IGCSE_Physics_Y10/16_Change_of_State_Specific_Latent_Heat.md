@@ -1,4 +1,4 @@
-# Thermal Physics
+# Change of State Specific Latent Heat
 
 ## Learning Objectives
 - Describe states of matter in terms of the kinetic particle model.

@@ -1,4 +1,4 @@
-# Measurement Techniques And Instrumentation
+# Measurement Techniques and Instrumentation
 
 ## Learning Objectives
 - Use vernier calipers and micrometers to make precise length measurements.

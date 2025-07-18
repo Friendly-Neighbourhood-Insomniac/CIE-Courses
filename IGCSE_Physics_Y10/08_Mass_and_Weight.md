@@ -1,4 +1,4 @@
-# Mass And Weight
+# Mass and Weight
 
 ## Learning Objectives
 - Distinguish between mass and weight.

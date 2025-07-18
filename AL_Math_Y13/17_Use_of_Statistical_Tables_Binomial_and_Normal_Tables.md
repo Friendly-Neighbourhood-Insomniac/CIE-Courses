@@ -1,4 +1,4 @@
-# Use Of Statistical Tables Binomial And Normal Tables
+# Use of Statistical Tables Binomial and Normal Tables
 
 ## Learning Objectives
 - Read binomial and normal probability tables accurately.

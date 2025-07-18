@@ -1,4 +1,4 @@
-# Scalars And Vectors
+# Scalars and Vectors
 
 ## Learning Objectives
 - Define scalar and vector quantities with examples.

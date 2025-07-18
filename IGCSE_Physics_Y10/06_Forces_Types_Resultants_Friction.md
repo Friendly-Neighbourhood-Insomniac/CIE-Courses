@@ -1,4 +1,4 @@
-# General Physics
+# Forces Types Resultants Friction
 
 ## Learning Objectives
 - Describe and measure physical quantities using SI units and prefixes.

@@ -1,4 +1,4 @@
-# Thermal Physics
+# Thermal Properties Specific Heat Capacity
 
 ## Learning Objectives
 - Describe states of matter in terms of the kinetic particle model.

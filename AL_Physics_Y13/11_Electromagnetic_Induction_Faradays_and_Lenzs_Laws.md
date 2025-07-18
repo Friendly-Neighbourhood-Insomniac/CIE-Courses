@@ -1,4 +1,4 @@
-# Electric and Magnetic Fields; Capacitance
+# Electromagnetic Induction Faradays and Lenzs Laws
 
 ## Learning Objectives
 - Describe electric field lines, potential and equipotential surfaces around point charges and between parallel plates.

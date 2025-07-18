@@ -1,4 +1,4 @@
-# Algebra
+# Algebra Simplifying Expanding Factorising
 
 ## Learning Objectives
 - Manipulate algebraic expressions using the laws of indices and factorisation.

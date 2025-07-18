@@ -1,4 +1,4 @@
-# Efficiency And Energy Transfer
+# Efficiency and Energy Transfer
 
 ## Learning Objectives
 - Calculate efficiency using \(\frac{\text{useful energy}}{\text{input energy}}\times100\%\).

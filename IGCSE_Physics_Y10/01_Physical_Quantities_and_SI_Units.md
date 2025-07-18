@@ -1,4 +1,4 @@
-# Physical Quantities And Si Units
+# Physical Quantities and SI Units
 
 ## Learning Objectives
 - Recall base quantities and their SI units.

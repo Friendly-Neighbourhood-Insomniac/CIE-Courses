@@ -1,4 +1,4 @@
-# Work Energy And Power
+# Work Energy and Power
 
 ## Learning Objectives
 - Apply the work–energy principle \(W=\Delta E_k\).

@@ -1,4 +1,4 @@
-# Series Arithmetic And Geometric Progressions
+# Series Arithmetic and Geometric Progressions
 
 ## Learning Objectives
 - Apply the formula \(S_n=\tfrac{n}{2}(2a+(n-1)d)\) for arithmetic series.

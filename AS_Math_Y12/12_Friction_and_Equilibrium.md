@@ -1,4 +1,4 @@
-# Friction And Equilibrium
+# Friction and Equilibrium
 
 ## Learning Objectives
 - Use the model of limiting friction \(F=\mu R\).

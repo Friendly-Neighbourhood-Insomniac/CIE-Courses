@@ -1,4 +1,4 @@
-# Thermal Physics and Ideal Gases
+# Temperature Thermometric Properties
 
 ## Learning Objectives
 - Describe the kinetic theory of gases and how particle motion relates to macroscopic quantities like pressure and temperature.

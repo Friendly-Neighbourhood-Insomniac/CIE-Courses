@@ -1,4 +1,4 @@
-# Total Internal Reflection And Critical Angle
+# Total Internal Reflection and Critical Angle
 
 ## Learning Objectives
 - Define the critical angle for a boundary between two media.

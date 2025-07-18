@@ -1,4 +1,4 @@
-# Calculus
+# Integration Substitution By Parts Area Volume of Revolution
 
 ## Learning Objectives
 - Differentiate and integrate a wide range of functions including exponential, logarithmic and trigonometric forms.

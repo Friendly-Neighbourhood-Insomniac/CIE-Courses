@@ -1,4 +1,4 @@
-# Algebra
+# Algebra Inequalities and Graphical Representations
 
 ## Learning Objectives
 - Manipulate algebraic expressions using the laws of indices and factorisation.

@@ -1,4 +1,4 @@
-# Kinetic And Potential Energy
+# Kinetic and Potential Energy
 
 ## Learning Objectives
 - Calculate kinetic energy using \(E_k=\tfrac{1}{2}mv^2\).

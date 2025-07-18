@@ -1,4 +1,4 @@
-# Algebra
+# Quadratic Equations Roots Discriminant Graphs
 
 ## Learning Objectives
 - Simplify algebraic expressions using factorisation, expansion and the laws of indices.

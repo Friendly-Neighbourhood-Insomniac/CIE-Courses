@@ -1,4 +1,4 @@
-# Linear Momentum And Impulse
+# Linear Momentum and Impulse
 
 ## Learning Objectives
 - Apply conservation of linear momentum in collisions and explosions.

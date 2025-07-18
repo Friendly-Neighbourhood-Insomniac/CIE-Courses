@@ -1,4 +1,4 @@
-# Geometry and Trigonometry
+# Geometry Angles Triangles Polygons Circle Theorems
 
 ## Learning Objectives
 - Solve geometric problems involving angles, polygons, circles, and loci.

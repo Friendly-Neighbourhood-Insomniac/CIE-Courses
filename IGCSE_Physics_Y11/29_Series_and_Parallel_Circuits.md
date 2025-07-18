@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# Series and Parallel Circuits
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.

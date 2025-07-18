@@ -1,4 +1,4 @@
-# Density Concept And Calculations
+# Density Concept and Calculations
 
 ## Learning Objectives
 - Define density as mass divided by volume.

@@ -1,4 +1,4 @@
-# Waves
+# Wave Properties Reflection Refraction Diffraction
 
 ## Learning Objectives
 - Explain the characteristics of progressive waves including wavefront, phase and energy transfer.

@@ -1,4 +1,4 @@
-# Trigonometry and Vectors
+# Trigonometry Basic Identities Equations Graphs
 
 ## Learning Objectives
 - Convert between degrees and radians and apply trigonometric identities to simplify expressions.

@@ -1,4 +1,4 @@
-# Kinematics Equations Of Motion Graphs
+# Kinematics Equations of Motion Graphs
 
 ## Learning Objectives
 - Apply the constant-acceleration equations \(v=u+at\) and \(s=ut+\tfrac{1}{2}at^2\).

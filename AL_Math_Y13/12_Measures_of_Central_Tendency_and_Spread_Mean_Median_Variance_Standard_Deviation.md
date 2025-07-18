@@ -1,4 +1,4 @@
-# Measures Of Central Tendency And Spread Mean Median Variance Standard Deviation
+# Measures of Central Tendency and Spread Mean Median Variance Standard Deviation
 
 ## Learning Objectives
 - Calculate mean, median and mode for discrete and grouped data.

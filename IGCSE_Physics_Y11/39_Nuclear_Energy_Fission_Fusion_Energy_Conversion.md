@@ -1,4 +1,4 @@
-# Atomic Physics
+# Nuclear Energy Fission Fusion Energy Conversion
 
 ## Learning Objectives
 - Describe the structure of atoms in terms of nuclei and orbiting electrons.

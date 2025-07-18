@@ -1,4 +1,4 @@
-# Light Ray Diagrams And Colour Filters
+# Light Ray Diagrams and Colour Filters
 
 ## Learning Objectives
 - Draw ray diagrams for mirrors and lenses.

@@ -1,4 +1,4 @@
-# Discrete Random Variables Probability Distributions Mean And Variance
+# Discrete Random Variables Probability Distributions Mean and Variance
 
 ## Learning Objectives
 - Define discrete random variables and their probability functions.

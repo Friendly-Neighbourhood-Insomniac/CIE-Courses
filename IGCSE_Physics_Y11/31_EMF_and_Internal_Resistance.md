@@ -1,4 +1,4 @@
-# Electricity and Magnetism
+# EMF and Internal Resistance
 
 ## Learning Objectives
 - Describe electric charge and current in terms of electron flow.

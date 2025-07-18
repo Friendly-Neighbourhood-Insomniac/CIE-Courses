@@ -1,4 +1,4 @@
-# Experimental Skills And Data Analysis
+# Experimental Skills and Data Analysis
 
 ## Learning Objectives
 - Plan experiments identifying independent, dependent and control variables.

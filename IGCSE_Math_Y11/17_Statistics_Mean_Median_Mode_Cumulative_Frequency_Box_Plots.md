@@ -1,4 +1,4 @@
-# Statistics
+# Statistics Mean Median Mode Cumulative Frequency Box Plots
 
 ## Learning Objectives
 - Collect, classify and tabulate raw data for statistical analysis.
